@@ -1,6 +1,10 @@
 
 ## Installation
 
+
+https://github.com/dxzenith/gaianet-node/assets/161211651/d4cde105-a6ed-4415-a701-7694e7d4ed4e
+
+
 - You can either use VPS or can use Codespace, it is totally depend upon you. If you use VPS, your node will be active all the time but if u use Codespace, your node will active until you close the codespace terminal
 
 - Open [Codespace](https://github.com/codespaces) or Termius (If you are using VPS)
