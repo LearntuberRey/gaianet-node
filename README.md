@@ -10,6 +10,10 @@ https://github.com/dxzenith/gaianet-node/assets/161211651/d4cde105-a6ed-4415-a70
 - Open [Codespace](https://github.com/codespaces) or Termius (If you are using VPS)
 - Use this command first to create a Screen session
 ```bash
+sudo apt-get update
+sudo apt-get install screen
+```
+```bash
 screen -S Gaianet
 ```
 - Then Paste this command :
