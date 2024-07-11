@@ -29,8 +29,6 @@ echo
 
 sleep 3
 
-screen -S Gaianet
-
 echo -e "${bold_purple}Executing gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-0.5b-chat/config.json${reset}"
 echo
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-0.5b-chat/config.json
