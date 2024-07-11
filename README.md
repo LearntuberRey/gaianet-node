@@ -22,10 +22,6 @@ wget https://raw.githubusercontent.com/dxzenith/gaianet-node/main/script.sh && c
 ```
 
 - To detach from screen session, Press `Ctrl + A + D`
-- To again check node logs, you need to re-attach, for that u need to use this command
-```bash
-screen -r Gaianet
-```
 - Chat with that bot and increase your throughputs, It may take 1 hr to 2 hr to update throughputs
 - Also try to grab roles on Galxe
 
