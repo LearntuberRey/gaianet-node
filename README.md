@@ -8,7 +8,11 @@ https://github.com/dxzenith/gaianet-node/assets/161211651/d4cde105-a6ed-4415-a70
 - You can either use VPS or can use Codespace, it is totally depend upon you. If you use VPS, your node will be active all the time but if u use Codespace, your node will active until you close the codespace terminal
 
 - Open [Codespace](https://github.com/codespaces) or Termius (If you are using VPS)
-- Paste this command :
+- Use this command first to create a Screen session
+```bash
+screen -S Gaianet
+```
+- Then Paste this command :
 ```bash
 wget https://raw.githubusercontent.com/dxzenith/gaianet-node/main/script.sh && chmod +x script.sh && ./script.sh
 ```
