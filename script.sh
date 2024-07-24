@@ -29,9 +29,9 @@ echo
 
 sleep 3
 
-echo -e "${bold_purple}Executing gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-0.5b-chat/config.json${reset}"
+echo -e "${bold_purple}Executing gaianet init --config https://github.com/LearntuberRey/gaianet-node/blob/main/node-configs/main/qwen-1.5-0.5b-chat/config.json${reset}"
 echo
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-0.5b-chat/config.json
+gaianet init --config https://github.com/LearntuberRey/gaianet-node/blob/main/node-configs/main/qwen-1.5-0.5b-chat/config.json
 echo
 
 echo -e "${bold_purple}Executing gaianet start${reset}"
